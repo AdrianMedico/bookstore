@@ -98,7 +98,7 @@ See the [open issues](https://github.com/AdrianMedico/bookstore/issues) for a li
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[issues-shield]: https://img.shields.io/github/issues/AdrianMedico/bookstorei?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/AdrianMedico/bookstore?style=for-the-badge
 [issues-url]: https://github.com/AdrianMedico/bookstore/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/adrian-medico
